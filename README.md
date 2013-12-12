@@ -1,0 +1,4 @@
+millioncoin
+===========
+
+Cryptocurrency coin
